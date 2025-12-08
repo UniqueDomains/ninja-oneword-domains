@@ -19,38 +19,38 @@ If you want to search & filters the complete database of [.NINJA one word domain
     <a href="https://wa.me/33601711555?text=Hi%2C%20I'm%20interested%20in%20getting%20access%20to%20the%20Unique.Domains%20API.%20Can%20you%20provide%20me%20with%20more%20information%3F"><b>💻 API</b></a>
 </p>
 
-| Domain          | Status    | Attract. | Demand | Length | Registrar | Created | Expires |
-| --------------- | --------- | -------- | ------ | ------ | --------- | ------- | ------- |
-| AAD.ninja       | available | 82       | 80%    | 3      |           |         |         |
-| aah.ninja       | available | 114      | 92%    | 3      |           |         |         |
-| aak.ninja       | available | 68       | 32%    | 3      |           |         |         |
-| AandE.ninja     | available | 50       | 80%    | 7      |           |         |         |
-| aardvark.ninja  | available | 64       | 92%    | 8      |           |         |         |
-| aargh.ninja     | available | 56       | 76%    | 5      |           |         |         |
-| aaron.ninja     | available | 88       | 32%    | 5      |           |         |         |
-| aaronburr.ninja | available | 54       | 72%    | 10     |           |         |         |
-| aarp.ninja      | premium   | 58       | 76%    | 4      |           |         |         |
-| aback.ninja     | available | 76       | 80%    | 5      |           |         |         |
-| abactinal.ninja | available | 50       | 1%     | 9      |           |         |         |
-| abacus.ninja    | available | 68       | 84%    | 6      |           |         |         |
-| abaft.ninja     | available | 43       | 2%     | 5      |           |         |         |
-| abalone.ninja   | available | 60       | 84%    | 7      |           |         |         |
-| abandoned.ninja | available | 58       | 7%     | 9      |           |         |         |
-| abashed.ninja   | available | 60       | 2%     | 7      |           |         |         |
-| abasic.ninja    | available | 54       | 2%     | 6      |           |         |         |
-| abatable.ninja  | available | 54       | 1%     | 8      |           |         |         |
-| abate.ninja     | available | 52       | 84%    | 5      |           |         |         |
-| abatement.ninja | available | 52       | 80%    | 9      |           |         |         |
-| abatic.ninja    | available | 54       | 2%     | 6      |           |         |         |
-| abaxial.ninja   | available | 54       | 2%     | 7      |           |         |         |
-| abaxially.ninja | available | 44       | 72%    | 9      |           |         |         |
-| abaya.ninja     | available | 50       | 88%    | 5      |           |         |         |
-| abba.ninja      | available | 54       | 88%    | 4      |           |         |         |
-| abbatial.ninja  | available | 50       | 1%     | 8      |           |         |         |
-| abbey.ninja     | available | 56       | 80%    | 5      |           |         |         |
-| abbot.ninja     | available | 50       | 80%    | 5      |           |         |         |
-| abbotcy.ninja   | available | 56       | 72%    | 7      |           |         |         |
-| Abbott.ninja    | available | 52       | 96%    | 6      |           |         |         |
+| Domain           | Status    | Attract. | Demand | Length | Registrar | Created | Expires |
+| ---------------- | --------- | -------- | ------ | ------ | --------- | ------- | ------- |
+| AAD.ninja        | available | 82       | 80%    | 3      |           |         |         |
+| aah.ninja        | available | 114      | 92%    | 3      |           |         |         |
+| aak.ninja        | available | 68       | 32%    | 3      |           |         |         |
+| AandE.ninja      | available | 50       | 80%    | 7      |           |         |         |
+| aardvark.ninja   | available | 64       | 92%    | 8      |           |         |         |
+| aargh.ninja      | available | 56       | 76%    | 5      |           |         |         |
+| aaronburr.ninja  | available | 54       | 72%    | 10     |           |         |         |
+| aarp.ninja       | premium   | 58       | 76%    | 4      |           |         |         |
+| aback.ninja      | available | 76       | 80%    | 5      |           |         |         |
+| abactinal.ninja  | available | 50       | 1%     | 9      |           |         |         |
+| abacus.ninja     | available | 68       | 84%    | 6      |           |         |         |
+| abaft.ninja      | available | 43       | 2%     | 5      |           |         |         |
+| abalone.ninja    | available | 60       | 84%    | 7      |           |         |         |
+| abandoned.ninja  | available | 58       | 7%     | 9      |           |         |         |
+| abashed.ninja    | available | 60       | 2%     | 7      |           |         |         |
+| abasic.ninja     | available | 54       | 2%     | 6      |           |         |         |
+| abatable.ninja   | available | 54       | 1%     | 8      |           |         |         |
+| abate.ninja      | available | 52       | 84%    | 5      |           |         |         |
+| abatement.ninja  | available | 52       | 80%    | 9      |           |         |         |
+| abatic.ninja     | available | 54       | 2%     | 6      |           |         |         |
+| abaxial.ninja    | available | 54       | 2%     | 7      |           |         |         |
+| abaxially.ninja  | available | 44       | 72%    | 9      |           |         |         |
+| abaya.ninja      | available | 50       | 88%    | 5      |           |         |         |
+| abba.ninja       | available | 54       | 88%    | 4      |           |         |         |
+| abbatial.ninja   | available | 50       | 1%     | 8      |           |         |         |
+| abbey.ninja      | available | 56       | 80%    | 5      |           |         |         |
+| abbot.ninja      | available | 50       | 80%    | 5      |           |         |         |
+| abbotcy.ninja    | available | 56       | 72%    | 7      |           |         |         |
+| Abbott.ninja     | available | 52       | 96%    | 6      |           |         |         |
+| abbreviate.ninja | available | 92       | 76%    | 10     |           |         |         |
 
 <p align="center">
     <a href="https://github.com/UniqueDomains/ninja-oneword-domains/stargazers"><b>⭐ Give a Star</b></a> • 
@@ -90,7 +90,7 @@ If you want to search & filters the complete database of [.NINJA one word domain
 | -------- | ------------ | ------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
 | Expired  | 23,472       | [Github](https://github.com/UniqueDomains/expired-oneword-domains)  | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expired-oneword-domains&utm_content=table.link)  |
 | Expiring | 51,125       | [Github](https://github.com/UniqueDomains/expiring-oneword-domains) | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expiring-oneword-domains&utm_content=table.link) |
-| All      | 3,525,538    | [Github](https://github.com/UniqueDomains/oneword-domains)          | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=oneword-domains&utm_content=table.link)          |
+| All      | 3,618,436    | [Github](https://github.com/UniqueDomains/oneword-domains)          | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=oneword-domains&utm_content=table.link)          |
 ## By TLD
 
 | Name           | Total Number | Extract                                                                  | Full Database                                                                                                                                   |
