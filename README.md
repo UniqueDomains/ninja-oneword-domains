@@ -14,9 +14,9 @@ Daily-updated public extract of available and resale .ninja one-word domains fro
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
 > The full live catalog for this exact search currently contains **79,772 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 79,772 domains
+**Public extract:** 1,000 rows · **Live catalog:** 79,772 domains · **Median ask:** $35.54 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-01  
+**Last updated:** 2026-05-06  
 **Canonical page:** `https://unique.domains/domains/tld/ninja`  
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain              | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                                          |
-| ------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------------------------------------------------------ |
-| communication.ninja | available | $42.98    | —             | 54             | 80     | 13     | namecheap                                                          |
-| loot.ninja          | resell    | —         | —             | 86             | 100    | 4      | Domain Science Kutatási Szolgáltató Korlátolt Felelősségű Társaság |
-| online.ninja        | premium   | $123.75   | —             | 70             | 62     | 7      | name.com                                                           |
-| abbotcy.ninja       | available | $42.98    | —             | 56             | 72     | 7      | namecheap                                                          |
-| esports.ninja       | resell    | —         | —             | 78             | 64     | 8      | Sav.com, LLC - 26                                                  |
-| justin.ninja        | premium   | $41.25    | —             | 58             | 38     | 7      | name.com                                                           |
-| remediation.ninja   | available | $42.98    | —             | —              | 52     | 11     | namecheap                                                          |
-| map.ninja           | resell    | —         | —             | 78             | 42     | 3      | Porkbun LLC                                                        |
-| studybuddy.ninja    | premium   | —         | —             | 64             | 96     | 11     | —                                                                  |
-| stories.ninja       | available | $9.99     | —             | 58             | 36     | 7      | name.com                                                           |
-| coins.ninja         | resell    | —         | —             | 56             | 41     | 5      | Dynadot Inc                                                        |
-| newline.ninja       | premium   | —         | —             | 62             | 96     | 8      | —                                                                  |
-| etc.ninja           | available | $9.99     | —             | 58             | 34     | 3      | name.com                                                           |
-| order.ninja         | resell    | —         | —             | 78             | 40     | 5      | Sav.com, LLC                                                       |
-| matchpoint.ninja    | premium   | —         | —             | 56             | 96     | 11     | —                                                                  |
-| deeplearning.ninja  | available | $9.99     | —             | 74             | 23     | 13     | name.com                                                           |
-| tickets.ninja       | resell    | —         | —             | 64             | 34     | 7      | NameCheap, Inc.                                                    |
-| enigma.ninja        | premium   | —         | —             | 54             | 96     | 6      | —                                                                  |
-| stadia.ninja        | available | $9.99     | —             | 66             | 22     | 6      | name.com                                                           |
-| spectra.ninja       | resell    | —         | —             | 62             | 34     | 7      | Dynadot Inc                                                        |
+| domain                | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                                          |
+| --------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------------------------------------------------------ |
+| solarpower.ninja      | available | $9.99     | —             | 84             | 15     | 11     | name.com                                                           |
+| hightech.ninja        | resell    | —         | —             | 83             | 16     | 9      | united-domains GmbH                                                |
+| loot.ninja            | resell    | —         | —             | 86             | 100    | 4      | Domain Science Kutatási Szolgáltató Korlátolt Felelősségű Társaság |
+| fiance.ninja          | premium   | —         | —             | 89             | 76     | 6      | —                                                                  |
+| grouping.ninja        | premium   | —         | —             | 84             | 4      | 8      | —                                                                  |
+| nomnomnom.ninja       | premium   | —         | —             | 80             | 5      | 11     | —                                                                  |
+| audition.ninja        | premium   | —         | —             | 82             | 88     | 8      | —                                                                  |
+| bravura.ninja         | premium   | —         | —             | 80             | 84     | 7      | —                                                                  |
+| overcoat.ninja        | premium   | —         | —             | 80             | 80     | 8      | —                                                                  |
+| makelove.ninja        | premium   | —         | —             | 84             | 10     | 9      | —                                                                  |
+| HolyMotherofGod.ninja | premium   | —         | —             | 82             | 72     | 18     | —                                                                  |
+| freespirit.ninja      | premium   | —         | —             | 82             | 17     | 11     | —                                                                  |
+| dependable.ninja      | premium   | —         | —             | 82             | 80     | 10     | —                                                                  |
+| definition.ninja      | premium   | —         | —             | 80             | 14     | 10     | —                                                                  |
+| beeswax.ninja         | premium   | —         | —             | 80             | 72     | 7      | —                                                                  |
+| podium.ninja          | premium   | —         | —             | 83             | 92     | 6      | —                                                                  |
+| shrug.ninja           | premium   | —         | —             | 86             | 88     | 5      | —                                                                  |
+| brag.ninja            | premium   | —         | —             | 114            | 15     | 4      | —                                                                  |
+| world.ninja           | premium   | —         | —             | 88             | 53     | 5      | —                                                                  |
+| reuse.ninja           | premium   | —         | —             | 94             | 88     | 5      | —                                                                  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -91,13 +91,13 @@ These rows are selected to show a more legible mix of visible asks, resale conte
 
 You are seeing the public sample. Unique Domains keeps the exact search context and adds saved workflows, deeper filters, and alerting.
 
-| GitHub extract          | Unique Domains                                   |
-| ----------------------- | ------------------------------------------------ |
-| 1,000-row public sample | 79,772 live domains                              |
-| Static CSV / JSON       | live search and daily refresh                    |
-| Basic exported fields   | deeper price, demand, risk, and workflow context |
-| No persistence          | Radar, saved search, and alerts                  |
-| No founder workflow     | Project, shortlist, and next-step workflow       |
+| GitHub extract          | Unique Domains                             |
+| ----------------------- | ------------------------------------------ |
+| 1,000-row public sample | 79,772 live domains                        |
+| Static CSV / JSON       | live search and daily refresh              |
+| Basic exported fields   | 0 high-demand names under $2,500           |
+| No persistence          | Radar, saved search, and alerts            |
+| No founder workflow     | Project, shortlist, and next-step workflow |
 
 If this sample already feels useful, Unique Domains is where the exact search becomes a workflow.
 
@@ -120,13 +120,12 @@ See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This repository follows the exact public search represented by the canonical page above.
+This selection is made up entirely of .ninja domain names. The set ranges from descriptive terms like solarpower.ninja and hightech.ninja to broader brandable options like loot.ninja, bravura.ninja, and overcoat.ninja. For founders, the main question is whether a .ninja ending strengthens memorability or makes the brand feel too playful for the market. For investors, the main question is whether the keyword and tone create enough resale appeal relative to ask and renewal burden. With a median ask of 35.54, price discipline matters less than fit, clarity, and the risk that a non-mainstream extension narrows buyer demand.
 
-- This repository is a public extract, not the full live catalog.
-- Counts, prices, and statuses can change over time.
-- Scores are decision-support signals, not guarantees of resale value.
-- Trademark, SEO, and risk signals should be treated as screening inputs, not legal or specialist advice.
-- Unique Domains contains deeper filters, monitoring, and decision workflows than this public extract.
+- Check if the keyword still reads clearly with .ninja
+- Favor memorable words over awkward or novelty phrasing
+- Compare ask against likely renewal burden and buyer depth
+- Watch for trademark risk in commercial or branded terms
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -143,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .NINJA One-Word Domains*. Version 2026-05-01. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .NINJA One-Word Domains*. Version 2026-05-06. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
