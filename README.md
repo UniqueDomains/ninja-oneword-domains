@@ -69,13 +69,13 @@ print(df.head())
 | loot.ninja            | resell    | —         | —             | 86             | 100    | 4      | Domain Science Kutatási Szolgáltató Korlátolt Felelősségű Társaság |
 | fiance.ninja          | premium   | —         | —             | 89             | 76     | 6      | —                                                                  |
 | grouping.ninja        | premium   | —         | —             | 84             | 4      | 8      | —                                                                  |
-| nomnomnom.ninja       | premium   | —         | —             | 80             | 5      | 11     | —                                                                  |
+| nomnomnom.ninja       | premium   | —         | —             | 80             | 6      | 11     | —                                                                  |
 | audition.ninja        | premium   | —         | —             | 82             | 88     | 8      | —                                                                  |
 | bravura.ninja         | premium   | —         | —             | 80             | 84     | 7      | —                                                                  |
 | overcoat.ninja        | premium   | —         | —             | 80             | 80     | 8      | —                                                                  |
 | makelove.ninja        | premium   | —         | —             | 84             | 10     | 9      | —                                                                  |
 | HolyMotherofGod.ninja | premium   | —         | —             | 82             | 72     | 18     | —                                                                  |
-| freespirit.ninja      | premium   | —         | —             | 82             | 17     | 11     | —                                                                  |
+| freespirit.ninja      | premium   | —         | —             | 82             | 16     | 11     | —                                                                  |
 | dependable.ninja      | premium   | —         | —             | 82             | 80     | 10     | —                                                                  |
 | definition.ninja      | premium   | —         | —             | 80             | 14     | 10     | —                                                                  |
 | beeswax.ninja         | premium   | —         | —             | 80             | 72     | 7      | —                                                                  |
