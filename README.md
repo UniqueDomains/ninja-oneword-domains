@@ -65,7 +65,6 @@ print(df.head())
 | domain                | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                                          |
 | --------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------------------------------------------------------ |
 | solarpower.ninja      | available | $9.99     | —             | 84             | 15     | 11     | name.com                                                           |
-| hightech.ninja        | resell    | —         | —             | 83             | 16     | 9      | united-domains GmbH                                                |
 | loot.ninja            | resell    | —         | —             | 86             | 100    | 4      | Domain Science Kutatási Szolgáltató Korlátolt Felelősségű Társaság |
 | fiance.ninja          | premium   | —         | —             | 89             | 76     | 6      | —                                                                  |
 | grouping.ninja        | premium   | —         | —             | 84             | 4      | 8      | —                                                                  |
@@ -84,6 +83,7 @@ print(df.head())
 | brag.ninja            | premium   | —         | —             | 114            | 15     | 4      | —                                                                  |
 | world.ninja           | premium   | —         | —             | 88             | 53     | 5      | —                                                                  |
 | reuse.ninja           | premium   | —         | —             | 94             | 88     | 5      | —                                                                  |
+| mri.ninja             | premium   | —         | —             | 86             | 80     | 3      | —                                                                  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
