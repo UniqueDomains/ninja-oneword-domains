@@ -1,10 +1,10 @@
-# Available .NINJA One-Word Domains (91,104)
+# Available .NINJA One-Word Domains (91,643)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-91%2C104%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-91%2C643%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .ninja one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **91,104 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **91,643 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 91,104 domains · **Median ask:** $15.53 · **High-demand under $2,500:** 236
+**Public extract:** 1,000 rows · **Live catalog:** 91,643 domains · **Median ask:** $15.59 · **High-demand under $2,500:** 230
 
-**Last updated:** 2026-09-24
+**Last updated:** 2026-09-25
 **Canonical page:** `https://unique.domains/domains/tld/ninja`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain        | status    | ask_price | renewal_price | attractiveness | demand | length | registrar         |
-| ------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------------- |
-| airy.ninja    | available | $9.99     | $39.99        | low            | low    | 4      | name.com          |
-| map.ninja     | resell    | —         | —             | high           | medium | 3      | Porkbun LLC       |
-| gay.ninja     | premium   | $1,040    | $1,040        | medium         | low    | 3      | namecheap         |
-| ante.ninja    | available | $15.99    | $30.99        | low            | low    | 4      | namesilo          |
-| form.ninja    | resell    | —         | —             | high           | low    | 4      | Sav.com, LLC - 12 |
-| clean.ninja   | premium   | $242      | $242          | medium         | low    | 5      | namesilo          |
-| aunt.ninja    | available | $9.99     | —             | high           | low    | 4      | name.com          |
-| esports.ninja | resell    | —         | —             | high           | medium | 8      | Sav.com, LLC - 26 |
-| tracy.ninja   | premium   | $118.80   | $118.80       | medium         | low    | 5      | namesilo          |
-| brag.ninja    | available | $15.99    | $30.99        | medium         | low    | 4      | namesilo          |
-| world.ninja   | premium   | $242      | $242          | high           | medium | 5      | namesilo          |
-| oars.ninja    | available | $15.99    | $30.99        | low            | low    | 4      | namesilo          |
-| babylon.ninja | premium   | $118.80   | $118.80       | medium         | low    | 7      | namesilo          |
-| pile.ninja    | available | $9.99     | $39.99        | low            | low    | 4      | name.com          |
-| thee.ninja    | available | $9.99     | —             | medium         | low    | 4      | name.com          |
-| then.ninja    | available | $9.99     | —             | high           | low    | 4      | name.com          |
-| tike.ninja    | available | $9.99     | $39.99        | low            | low    | 4      | name.com          |
-| vial.ninja    | available | $15.99    | $30.99        | low            | low    | 4      | namesilo          |
-| winy.ninja    | available | $11.98    | $42.98        | medium         | low    | 4      | namecheap         |
-| acold.ninja   | available | $9.99     | $39.99        | medium         | low    | 5      | name.com          |
+| domain           | status    | ask_price | renewal_price | attractiveness | demand | length | registrar         |
+| ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------------- |
+| ain.ninja        | available | $9.99     | $39.99        | high           | low    | 3      | name.com          |
+| map.ninja        | resell    | —         | —             | high           | medium | 3      | Porkbun LLC       |
+| tracy.ninja      | premium   | $118.80   | $118.80       | high           | low    | 5      | namesilo          |
+| xcl.ninja        | available | $9.99     | $39.99        | high           | low    | 3      | name.com          |
+| form.ninja       | resell    | —         | —             | high           | low    | 4      | Sav.com, LLC - 12 |
+| world.ninja      | premium   | $242      | $242          | high           | medium | 5      | namesilo          |
+| airy.ninja       | available | $9.99     | $39.99        | high           | low    | 4      | name.com          |
+| wage.ninja       | resell    | —         | —             | high           | high   | 4      | Name.com, Inc.    |
+| retirement.ninja | premium   | $118.80   | $118.80       | high           | low    | 10     | namesilo          |
+| aunt.ninja       | available | $9.99     | —             | high           | low    | 4      | name.com          |
+| esports.ninja    | resell    | —         | —             | high           | medium | 8      | Sav.com, LLC - 26 |
+| belt.ninja       | available | $9.99     | —             | high           | low    | 4      | name.com          |
+| ultimate.ninja   | resell    | —         | —             | high           | low    | 8      | GoDaddy.com, LLC  |
+| burn.ninja       | available | $9.99     | —             | high           | low    | 4      | name.com          |
+| fall.ninja       | available | $9.99     | —             | high           | low    | 4      | name.com          |
+| gilt.ninja       | available | $9.99     | $39.99        | high           | low    | 4      | name.com          |
+| grew.ninja       | available | $9.99     | —             | high           | low    | 4      | name.com          |
+| hone.ninja       | available | $11.98    | $42.98        | high           | low    | 4      | namecheap         |
+| nigh.ninja       | available | $9.99     | $39.99        | high           | low    | 4      | name.com          |
+| omit.ninja       | available | $9.99     | —             | high           | low    | 4      | name.com          |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 91,104 live domains                        |
+| 1,000-row public sample | 91,643 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 236 high-demand names under $2,500         |
+| Basic exported fields   | 230 high-demand names under $2,500         |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .NINJA One-Word Domains*. Version 2026-09-24. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .NINJA One-Word Domains*. Version 2026-09-25. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
