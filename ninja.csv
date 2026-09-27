@@ -1,13 +1,13 @@
 id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,registrar,created_at,expires_at,status_verified_at
-5dc12d2d-84c6-46bc-954d-4c07e45f0b92,renovations.ninja,available,,,high,medium,11,,,,
-d68d6746-08db-4905-882d-6ff200e6c366,triply.ninja,available,,,high,high,6,,,,
+5dc12d2d-84c6-46bc-954d-4c07e45f0b92,renovations.ninja,available,15.99,30.99,high,medium,11,namesilo,,,27/09/2026 06:58
+d68d6746-08db-4905-882d-6ff200e6c366,triply.ninja,available,15.99,30.99,high,high,6,namesilo,,,27/09/2026 06:59
 379cbae7-81fd-4a0b-b3b5-45acf0f3c486,gyration.ninja,available,,,high,high,8,,,,
 c89f2976-4716-4401-946a-9ce522e4c885,casually.ninja,available,11.98,42.98,high,low,8,namecheap,,,14/09/2026 05:25
 6cc2fe0b-a9a2-4ee6-9a9a-712942397d82,layby.ninja,available,,,high,high,5,,,,
 06f16ecf-7ee1-4642-8556-9d2c1cdfc2d5,zamang.ninja,available,11.98,42.98,high,low,6,namecheap,,,18/09/2026 03:18
 7bfb111e-c3a5-4351-a737-1ca3091350c0,bathed.ninja,available,,,high,high,6,,,,
 6cfef9bc-7197-46d1-9aa1-1c6d4ba8770a,rosemarie.ninja,available,,,high,high,9,,,,
-32f6fc55-6934-4774-ba8a-f82961dd111f,primarily.ninja,available,9.99,,high,low,9,name.com,,,
+32f6fc55-6934-4774-ba8a-f82961dd111f,primarily.ninja,available,11.98,42.98,high,low,9,namecheap,,,27/09/2026 06:58
 27d5ca1d-c12a-4b10-9f11-ffa60334aa63,paginations.ninja,available,,,medium,low,11,,,,
 2d159dbd-889c-4033-b3de-d870c077d2d0,billpayer.ninja,available,,,high,high,9,,,,
 d5b1ed83-76fd-4b53-bc8e-a9b04b44ecdd,conducive.ninja,available,9.99,39.99,high,low,9,name.com,,,12/08/2026 20:30
@@ -15,8 +15,8 @@ d5b1ed83-76fd-4b53-bc8e-a9b04b44ecdd,conducive.ninja,available,9.99,39.99,high,l
 7ab5f1f7-ce96-428f-9bb6-0746335b48b9,bony.ninja,available,9.99,39.99,high,low,4,name.com,,,10/08/2026 18:42
 10323fbd-e9fe-43b4-b902-603fe93e77ce,tumeric.ninja,available,,,high,low,7,,,,
 6a977e98-59e1-4bc1-b28c-86fa828c7f28,wrangler.ninja,available,,,high,high,8,,,,
-7eb07b6e-3047-4d70-8cdb-c0b1742c616e,therapist.ninja,available,,,high,high,9,,,,
-266c0217-3762-4781-a87c-8c5be34c9802,bioactive.ninja,available,,,high,high,9,,,,
+7eb07b6e-3047-4d70-8cdb-c0b1742c616e,therapist.ninja,available,15.99,30.99,high,high,9,namesilo,,,27/09/2026 06:13
+266c0217-3762-4781-a87c-8c5be34c9802,bioactive.ninja,available,11.98,42.98,high,high,9,namecheap,,,27/09/2026 05:05
 7cd5f957-f961-4b3c-a9b8-d6f88267c554,youre.ninja,available,9.99,,high,low,5,name.com,,,
 897f1098-76f2-4686-ba0b-ca6e8b6ece9a,wokeish.ninja,available,,,high,high,7,,,,
 cf69229f-cbf4-4ab3-978d-a3d0d0c89130,solemnise.ninja,available,,,high,high,9,,,,
@@ -25,7 +25,7 @@ d4c6f05f-0aaa-43e7-ace8-e5618033ecb8,fraudulent.ninja,available,9.99,39.99,high,
 a9c593ff-b5b7-42a2-9090-5d5309837eec,mousetrap.ninja,available,,,high,high,9,,,,
 7129870a-aa4b-4dc2-94bd-ba34b7f3b837,kissogram.ninja,available,,,high,high,9,,,,
 817ec2ed-32a1-4ce2-8273-82d97ec72c39,sozzled.ninja,available,9.99,39.99,medium,low,7,name.com,,,09/08/2026 16:23
-605ffaa1-abb3-4bd7-9163-b50eb082e426,gestation.ninja,available,,,high,high,9,,,,
+605ffaa1-abb3-4bd7-9163-b50eb082e426,gestation.ninja,available,15.99,30.99,high,high,9,namesilo,,,27/09/2026 06:10
 a0954e14-00d9-4717-a5e8-2556010bba43,backfill.ninja,available,,,high,high,8,,,,
 b45d3948-c4b9-421b-8283-a180ffaf5628,sunil.ninja,available,,,high,high,5,,,,
 1a4473d5-315b-42e0-83b2-bf9e03a8be09,parentlike.ninja,available,,,high,high,10,,,,
@@ -35,10 +35,10 @@ be2f5fd4-d373-430e-bdae-eac25981b7dd,pointed.ninja,available,11.98,42.98,high,lo
 df3c47fe-f0df-4b43-9dae-90ff029bb7f7,twofold.ninja,available,9.99,39.99,high,low,7,name.com,,,14/08/2026 16:39
 2766a354-490f-43ce-950c-cb123c51b100,motives.ninja,available,,,high,high,7,,,,
 ac07025e-153d-4831-8222-9225fb511402,hangar.ninja,available,11.98,42.98,high,low,6,namecheap,,,17/09/2026 23:05
-5c6d7bd0-a522-4119-9639-d251674d3104,seneca.ninja,available,,,high,high,6,,,,
+5c6d7bd0-a522-4119-9639-d251674d3104,seneca.ninja,available,15.99,30.99,high,high,6,namesilo,,,27/09/2026 05:57
 3c36caa0-a02b-4a66-92bb-ef3f012d26b0,otto.ninja,available,,,high,high,4,,,,
 d0d29601-d4d4-4bf1-8ccc-4e40ba7cb900,bisect.ninja,available,,,high,high,6,,,,
-9f3e412f-bcca-47ec-8ea3-975b19cde216,vending.ninja,available,,,high,high,7,,,,
+9f3e412f-bcca-47ec-8ea3-975b19cde216,vending.ninja,available,15.99,30.99,high,high,7,namesilo,,,27/09/2026 05:56
 ce278275-f677-4180-81a4-1e831970789a,divisio.ninja,available,,,high,high,7,,,,
 617209bf-b8a8-4723-a831-a1e1214b1023,vcd.ninja,available,,,high,high,3,,,,
 cb86d42e-27fa-4c81-8756-313c14f04c02,assisted.ninja,available,15.99,30.99,high,low,8,namesilo,,,21/09/2026 23:41
@@ -52,7 +52,7 @@ b28dc437-29dd-42f2-9d4e-c6ef46aed8ec,revengeful.ninja,available,11.98,42.98,medi
 0dc9341e-d298-48b3-a455-b83fad6c0ecc,abiogenetically.ninja,available,,,high,high,15,,,,
 1e6b97fe-fc28-48aa-8217-2fac673a5b9d,mistakes.ninja,available,15.99,30.99,high,low,8,namesilo,,,16/09/2026 10:20
 aeac6d12-ed19-4c30-858f-d3cf39484222,horrified.ninja,available,9.99,39.99,high,low,9,name.com,,,21/08/2026 14:14
-9aef08ec-07f2-4cb2-b1b8-93e02367ae3f,urgent.ninja,available,9.99,,high,low,6,name.com,,,
+9aef08ec-07f2-4cb2-b1b8-93e02367ae3f,urgent.ninja,available,15.99,30.99,high,low,6,namesilo,,,27/09/2026 06:05
 edbb8aa3-a1f3-4058-8492-34dc1b4022bb,indices.ninja,available,,,high,medium,7,,,,
 8d605d83-4172-4cb5-926b-7333488f1b23,latinx.ninja,available,,,high,high,6,,,,
 4f224d83-3c11-41a4-a5f5-fc694114d96d,connolly.ninja,premium,128.7,128.7,high,low,8,namecheap,,,25/09/2026 22:17
@@ -60,13 +60,12 @@ edbb8aa3-a1f3-4058-8492-34dc1b4022bb,indices.ninja,available,,,high,medium,7,,,,
 95262c7d-a2eb-4a04-8ba0-718beaf1a2e8,conjoint.ninja,available,9.99,39.99,high,low,8,name.com,,,12/08/2026 22:05
 b26915ae-1876-4b38-9234-5dd9f6bb7004,music.ninja,available,,,high,medium,5,,,,
 4fc30d0d-6407-4ba1-b550-f062d758ffd9,tenner.ninja,available,11.98,42.98,high,low,6,namecheap,,,21/09/2026 10:53
-9421501e-fbc1-4549-827b-61608b4349e6,coalesce.ninja,available,,,high,high,8,,,,
+9421501e-fbc1-4549-827b-61608b4349e6,coalesce.ninja,available,15.99,30.99,high,high,8,namesilo,,,27/09/2026 05:40
 9349b923-73ab-4923-9cfd-19eefbf5886e,patented.ninja,available,11.98,42.98,high,low,8,namecheap,,,08/09/2026 10:24
 26874058-f2eb-47d0-b588-de44f294814e,appointee.ninja,available,15.99,30.99,high,low,9,namesilo,,,19/09/2026 21:58
 06f6efc7-be86-4e79-aa51-1ea26bfe6c4c,blackening.ninja,available,9.99,39.99,high,low,10,name.com,,,13/08/2026 18:12
 df925078-23b4-4511-a507-e057ebe5fcd3,dashingness.ninja,available,,,high,low,11,,,,
 d5f4145c-fad8-4f32-a6a9-dd1512fd1727,subaltern.ninja,available,9.99,39.99,high,low,9,name.com,,,22/08/2026 14:29
-5c3d8044-8e2d-41a0-a6a0-a540b98182fe,moto.ninja,available,,,high,high,4,,,,
 cbb158df-139e-4189-92b4-e7c884bd4a04,artifactual.ninja,available,,,high,low,11,,,,
 548e982d-086e-437a-8d33-a7940bf235b9,clad.ninja,available,9.99,39.99,high,low,4,name.com,,,12/08/2026 09:13
 7fee0d45-9210-400d-8549-bdb7f02679f9,nuvvuagittuq.ninja,available,,,high,high,12,,,,
@@ -104,8 +103,8 @@ eae9610e-287f-4683-aed5-003fe5fb12f5,tensile.ninja,available,11.98,42.98,high,lo
 fac6bbd3-0c37-4b0c-978b-84f2894ac5b6,orgasmic.ninja,available,,,high,high,8,,,,
 3f3101de-7ebf-405d-b399-646ffd4ea51b,reappeared.ninja,available,,,medium,low,10,,,,
 ea893db3-575c-4a5f-b809-6f40e3e4148b,friedrichstal.ninja,available,,,high,high,13,,,,
-5818dfb2-b841-4ed4-9bfd-1cbb02d17f5c,advertize.ninja,available,,,high,high,9,,,,
-a287bb20-af63-4c6c-915c-b10fa5f6b571,starfighter.ninja,available,,,high,high,11,,,,
+5818dfb2-b841-4ed4-9bfd-1cbb02d17f5c,advertize.ninja,available,15.99,30.99,high,high,9,namesilo,,,27/09/2026 06:26
+a287bb20-af63-4c6c-915c-b10fa5f6b571,starfighter.ninja,available,15.99,30.99,high,high,11,namesilo,,,27/09/2026 05:57
 6c0b8599-8c41-45e7-b807-7dc5efab7a02,orwell.ninja,available,,,high,high,6,,,,
 33c46375-807c-4dbf-b0bc-0676820741c1,clothespres.ninja,available,,,high,high,11,,,,
 362a6d43-e0ca-4ea2-93c5-4d951b6e0e86,pettiskirt.ninja,available,,,high,high,10,,,,
@@ -117,7 +116,7 @@ f5621e84-7398-4a21-bc0f-16d9d8d01275,milky.ninja,available,9.99,39.99,high,low,5
 824b5644-09c8-421f-9886-4e739ad83cad,arching.ninja,available,9.99,39.99,high,low,7,name.com,,,06/08/2026 14:39
 d7adcb49-f1f1-4d9c-b9e4-84c73ff59e31,knish.ninja,available,,,high,high,5,,,,
 be9753ab-508d-455e-a222-832e1608d408,homely.ninja,available,9.99,39.99,high,low,6,name.com,,,21/08/2026 11:04
-9d1fbcb5-e476-4faf-8a7f-95781f1ae74e,marconi.ninja,available,,,high,high,7,,,,
+9d1fbcb5-e476-4faf-8a7f-95781f1ae74e,marconi.ninja,available,15.99,30.99,high,high,7,namesilo,,,27/09/2026 05:50
 1ef0127b-3af8-484a-83b1-3b2acfc9ad1e,vestris.ninja,available,,,high,high,7,,,,
 e206fafc-90f6-43b2-89e9-74964dd1b054,biasing.ninja,available,,,high,high,7,,,,
 d8edc5c5-8d6c-4473-ba0c-393c9a0b7049,floret.ninja,available,,,high,high,6,,,,
@@ -217,7 +216,7 @@ e591b0b9-54de-4ffa-aba0-8960ff6d8d17,cypriote.ninja,available,9.99,39.99,high,lo
 891e66d2-ba64-46bf-a31f-525533a219e6,wetheral.ninja,available,,,high,high,8,,,,
 1f371ee3-f7ad-4e44-a39c-08f4cca27082,nrma.ninja,available,,,high,high,4,,,,
 b36ed266-bbff-4ebc-b759-267aae63c453,skytime.ninja,available,,,high,high,7,,,,
-01cf456e-1776-4394-aca9-e18f1d3c9cac,approx.ninja,available,,,high,high,6,,,,
+01cf456e-1776-4394-aca9-e18f1d3c9cac,approx.ninja,available,15.99,30.99,medium,low,6,namesilo,,,27/09/2026 02:29
 3f520e33-e4c4-4c4c-9063-8911501dfefe,sprints.ninja,available,,,high,medium,7,,,,
 df8e907e-e850-4514-9973-c547311c825e,skeptical.ninja,available,9.99,39.99,high,low,9,name.com,,,14/08/2026 09:34
 ea33de26-5cc3-4458-9ff5-ffcb54ea44d4,jeer.ninja,available,9.99,39.99,high,low,4,name.com,,,22/08/2026 12:37
@@ -242,13 +241,13 @@ c07a4fbb-6f68-4895-abdf-634177b9b3e6,ldl.ninja,available,15.99,30.99,high,low,3,
 4a62de23-ecd8-4d45-a769-b89d19d173d8,databases.ninja,available,,,high,medium,9,,,,
 ef9d35a1-d3a1-4b8f-b258-4a2494297891,hum.ninja,available,9.99,,high,low,3,name.com,,,
 42857520-eb22-433f-a820-73f8fa3cd0b0,justifiability.ninja,available,,,medium,low,14,,,,
-38dcc84e-8cab-46e6-89d0-27f711852f66,weep.ninja,available,,,high,high,4,,,,
+38dcc84e-8cab-46e6-89d0-27f711852f66,weep.ninja,available,15.99,30.99,high,high,4,namesilo,,,27/09/2026 05:07
 870740b8-16c5-46b8-a5c4-ba048639fe55,uncok.ninja,available,,,high,high,5,,,,
 30b5114c-08d2-43a5-b901-d64387dc7c2a,bedder.ninja,available,15.99,30.99,high,low,6,namesilo,,,22/09/2026 23:13
 dfda0524-bd5f-492e-aa07-ac90946d9859,landmass.ninja,available,,,high,high,8,,,,
 1f62e6e7-f33b-4cc2-a0df-5a23deb59c30,wonderingly.ninja,available,,,high,high,11,,,,
 463db9dd-ba44-49e1-826b-ed307780aa1f,photocopier.ninja,available,,,high,high,11,,,,
-7deaefd8-3ee4-4c27-a430-f774749bb47b,configure.ninja,available,,,high,high,9,,,,
+7deaefd8-3ee4-4c27-a430-f774749bb47b,configure.ninja,available,15.99,30.99,high,high,9,namesilo,,,27/09/2026 05:53
 37546b48-b19b-436a-853f-9b710977e41c,megahertz.ninja,available,,,high,high,9,,,,
 f597d2dc-148a-415d-a440-50a34df4f1fb,survival.ninja,available,15.99,30.99,high,high,8,namesilo,,,25/09/2026 14:32
 ec80e20f-074a-4fd4-8c3b-ac9468be69ba,clinicians.ninja,available,,,high,medium,10,,,,
@@ -269,10 +268,11 @@ c2485532-a8e3-408b-b65c-ef436eb38e47,homeschooled.ninja,available,,,high,low,12,
 886cb28d-93b7-4e96-9488-1b33e28ec30a,hyacinth.ninja,available,,,high,high,8,,,,
 03653736-9fc6-4990-b45c-758d0c2daacd,jellyroll.ninja,available,,,high,high,9,,,,
 9437997a-1f55-4683-b094-f17a50882776,snorkelling.ninja,available,,,medium,low,11,,,,
-e1365c90-ade3-4062-a727-7a24ee1e6d70,segue.ninja,available,,,high,high,5,,,,
+e1365c90-ade3-4062-a727-7a24ee1e6d70,segue.ninja,available,15.99,30.99,high,high,5,namesilo,,,27/09/2026 05:46
 2a7f96ef-064c-4bb3-b041-48b0013a9f99,stapling.ninja,available,,,high,high,8,,,,
 5a6b630e-2416-45f2-b42c-3de04ca0f4f1,defraud.ninja,available,11.98,42.98,high,low,7,namecheap,,,14/09/2026 08:02
 2b0bb1e5-c311-4878-a69e-49b123b45a06,modulator.ninja,available,,,high,high,9,,,,
+f83c54ae-6354-4d86-86c5-b22961a1db8e,harcourt.ninja,available,15.99,30.99,high,low,8,namesilo,,,27/09/2026 08:10
 5d0dafb3-dcdb-4571-aada-3c67eb7bfbd6,strides.ninja,available,,,high,high,7,,,,
 d8f6bdf5-7758-4848-a59a-5a98879ee0cd,radiothon.ninja,available,,,high,high,9,,,,
 53837882-796a-439e-a242-870120a14f92,unacquainted.ninja,available,,,high,high,12,,,,
@@ -300,6 +300,7 @@ d49b1c95-f7a3-4882-915a-fd44043abf2f,dominicans.ninja,available,,,high,low,10,,,
 127d93c8-d6dd-4397-9e70-be58c7173caa,emmie.ninja,available,,,high,high,5,,,,
 35521088-7821-45d5-a363-8e5fa29aa8d0,several.ninja,available,9.99,,high,low,7,name.com,,,
 3d961997-8859-49aa-a656-4c2baab69176,tenderest.ninja,available,,,medium,low,9,,,,
+7a2d09ce-350e-4276-aad6-3abffe7a0505,poet.ninja,available,15.99,30.99,high,low,4,namesilo,,,27/09/2026 05:01
 2c2f401b-b90a-4e49-ba39-058507271811,meddle.ninja,available,9.99,,high,low,6,name.com,,,
 f7a82cbe-0ce9-48f1-824b-59c63af25686,snowing.ninja,available,,,high,high,7,,,,
 d586d377-c1c4-4240-8aae-5c9f656f5a8d,terabytes.ninja,available,,,high,medium,9,,,,
@@ -325,14 +326,14 @@ dbee246c-eb44-42c4-b362-aafe6e60e409,arterial.ninja,available,9.99,39.99,high,lo
 c8ebbf99-df04-42e4-9111-ed16f526ef19,britpop.ninja,available,,,high,high,7,,,,
 6c2accce-1f6f-4976-b9e7-a6bd95087134,versailles.ninja,available,,,high,high,10,,,,
 f722e33d-654d-46d6-85ec-331a0eaced0f,arena.ninja,available,9.99,,high,medium,5,name.com,,,
-e4c7859e-5c38-4778-a012-d38ecfb31985,hypothesis.ninja,available,,,high,high,10,,,,
+e4c7859e-5c38-4778-a012-d38ecfb31985,hypothesis.ninja,available,15.99,30.99,high,high,10,namesilo,,,27/09/2026 05:35
 cb13a4f2-701d-4d64-8f32-0c5be66ea6ad,capercaillie.ninja,available,,,high,high,12,,,,
 0b3ff34a-797d-412f-9195-f0c3827d9f10,prezzie.ninja,available,,,high,high,7,,,,
 78ed75af-a635-401e-98bd-917db0a86ff4,vested.ninja,available,11.98,42.98,high,low,6,namecheap,,,13/09/2026 04:49
 ffc2dc8a-aa5e-462e-83b8-8516b73943d8,monocarp.ninja,available,,,high,high,8,,,,
 fc347cea-8775-4374-983b-e99bd58dce48,brunei.ninja,available,,,high,high,6,,,,
 d4961b03-6738-47e6-8b22-f8bb2af10bbd,yeppers.ninja,available,,,high,high,7,,,,
-b0413a80-ff33-4615-b388-a688afe2abc0,voyage.ninja,available,,,high,high,6,,,,
+b0413a80-ff33-4615-b388-a688afe2abc0,voyage.ninja,available,11.98,42.98,high,high,6,namecheap,,,27/09/2026 05:44
 6b05fd75-b2fc-4272-bf03-8717c622b9f5,furthermore.ninja,available,15.99,30.99,high,low,11,namesilo,,,17/09/2026 08:41
 53a95c08-2cab-47a0-987e-ba57815c1a05,parchments.ninja,available,,,medium,low,10,,,,
 712c3b03-58b3-4181-86de-89baac54f583,mosaicry.ninja,available,,,high,low,8,,,,
@@ -350,7 +351,7 @@ cf059453-19d7-4302-873e-907bcc841239,lucrative.ninja,available,15.99,30.99,high,
 97205129-093a-4a95-a446-bef6992ea91a,feetlong.ninja,available,,,high,high,8,,,,
 a11365fe-f88a-4a70-b62a-a9e4c5f833bf,perfumy.ninja,available,,,high,high,7,,,,
 c058c74e-4abb-4e77-86d4-2732472b2b6c,qatari.ninja,available,9.99,39.99,high,low,6,name.com,,,22/08/2026 15:09
-cb748b29-27e4-4d2d-bbc2-31919c00274f,breakthrough.ninja,available,,,high,high,12,,,,
+cb748b29-27e4-4d2d-bbc2-31919c00274f,breakthrough.ninja,available,11.98,42.98,high,high,12,namecheap,,,27/09/2026 06:19
 07ef553f-3cd1-4ed3-82d9-5dc94057a65e,smaller.ninja,available,15.99,30.99,high,low,7,namesilo,,,25/09/2026 14:03
 6634dd4e-31a1-4a26-a6d0-0b4dde982f8d,copasetic.ninja,available,9.99,39.99,high,low,9,name.com,,,13/08/2026 00:20
 efea9cba-ccdb-4ba9-9ced-0e6487c0c265,frantic.ninja,available,9.99,39.99,high,low,7,name.com,,,18/08/2026 14:15
@@ -364,7 +365,7 @@ b1087103-3ce8-43c3-ae11-dfa2846e96dc,brasilia.ninja,available,,,high,high,8,,,,
 b44c1c83-df83-4233-adb8-6d70687bd35c,rigour.ninja,available,11.98,42.98,high,low,6,namecheap,,,20/09/2026 14:57
 56663634-982a-4736-9db0-9c22474b6ea6,unconcealed.ninja,available,,,high,high,11,,,,
 c6359f22-89e0-49a2-887f-3d9a96ba2ef2,aeonian.ninja,available,9.99,39.99,medium,low,7,name.com,,,
-6530a9e9-d910-4238-afd0-2b877cdbe38c,socializing.ninja,available,,,high,high,11,,,,
+6530a9e9-d910-4238-afd0-2b877cdbe38c,socializing.ninja,available,15.99,30.99,high,high,11,namesilo,,,27/09/2026 05:45
 c281cbdc-2e2c-4195-b7e6-77d6502de302,diodelaser.ninja,available,,,high,high,10,,,,
 b9b15bae-4592-47bd-b9f0-dc93ec160eb1,panty.ninja,resell,,,high,low,5,"NameCheap, Inc.",27/08/2018 21:10,27/08/2027 21:10,26/09/2026 08:01
 bab7ec56-9715-428d-a2c8-a0c0c3c9c40e,ergodic.ninja,available,9.99,39.99,high,low,7,name.com,,,17/08/2026 12:09
@@ -381,7 +382,7 @@ b72892b4-5266-42e9-8754-03c517ab6b7e,folklorist.ninja,available,,,high,high,10,,
 5770dc4c-4e4a-4a04-badb-a3d0a87dff38,aluminise.ninja,available,,,high,high,9,,,,
 aba18b3a-78bb-48be-9e64-82076603558a,pigeons.ninja,available,15.99,30.99,high,low,7,namesilo,,,20/09/2026 07:08
 a245f6a7-e491-42a0-a90d-985ea2114180,sterilise.ninja,available,,,high,high,9,,,,
-3ced5b52-4fe0-4b04-96c4-40d9ba82be0e,gladness.ninja,available,,,high,high,8,,,,
+3ced5b52-4fe0-4b04-96c4-40d9ba82be0e,gladness.ninja,available,15.99,30.99,high,high,8,namesilo,,,27/09/2026 05:51
 25277dab-d2d3-43d1-8997-857f6debd939,pummelo.ninja,available,,,high,high,7,,,,
 0d3542a2-0540-4150-be83-5d9fbc2396c5,aural.ninja,available,11.98,42.98,high,low,5,namecheap,,,22/09/2026 12:49
 23e19c28-01dc-49d1-9d7a-a59d3ecac158,salience.ninja,available,,,high,high,8,,,,
@@ -391,11 +392,12 @@ b650ac4b-eb15-45e9-a524-0be4df4d80d9,bellflowers.ninja,available,,,medium,low,11
 56382718-8dcf-4592-aa7a-929952942bb0,daenerys.ninja,available,,,high,medium,8,,,,
 e553039a-ece2-4288-b13d-98d87bc144f3,serenades.ninja,available,,,high,low,9,,,,
 809b0e70-92fc-4d15-b1ad-b515e77268be,obsessive.ninja,available,15.99,30.99,high,low,9,namesilo,,,25/09/2026 23:45
-e5265e71-f4af-4363-9a62-5ac0de93e53c,championship.ninja,available,,,high,high,12,,,,
+e5265e71-f4af-4363-9a62-5ac0de93e53c,championship.ninja,available,11.98,42.98,high,low,12,namecheap,,,27/09/2026 02:00
 b082061d-ade5-424b-8c33-43876ee57875,beatboxing.ninja,available,,,high,high,11,,,,
 32de5981-62d0-4b2b-b52a-2b03a322c023,conciliations.ninja,available,,,medium,low,13,,,,
-f217142e-8303-4881-890a-45d0324603c1,soho.ninja,available,,,high,high,4,,,,
+f217142e-8303-4881-890a-45d0324603c1,soho.ninja,available,15.99,30.99,high,high,4,namesilo,,,27/09/2026 06:14
 cd1e6cdf-4bba-4123-a21e-43636a686eeb,idealize.ninja,available,,,high,high,8,,,,
+dee29520-36a6-4f70-aedd-3609f88f26af,meetings.ninja,available,11.98,42.98,high,low,8,namecheap,,,27/09/2026 10:46
 b7cfa7c4-8837-42ed-a5c7-2049b6d4b196,mesocyclone.ninja,available,,,high,high,11,,,,
 6dd7a43c-c531-4ab7-a2d1-ee76740c8358,retractor.ninja,available,,,high,high,9,,,,
 10dfe9bd-6700-4b65-8cc0-f21f80a739ff,overviews.ninja,available,,,high,low,9,,,,
@@ -416,8 +418,7 @@ bf3226b7-a219-4f8c-a6a4-f2c4c4417949,kielce.ninja,available,,,high,high,6,,,,
 b3008d1d-f0a0-49c8-acc5-240aca64d1fe,form.ninja,resell,,,high,medium,4,"Sav.com, LLC - 12",13/11/2025 15:16,13/11/2026 15:16,26/09/2026 06:12
 5c68b249-fe8c-475a-b06d-11d6dfe7071a,tallywoman.ninja,available,,,high,high,10,,,,
 dad4d1f6-23e2-4f21-b718-68def263e7ec,aten.ninja,available,11.98,42.98,high,low,4,namecheap,,,20/09/2026 20:04
-b8c132de-4216-4957-abb8-306608433a87,revue.ninja,available,,,high,high,5,,,,
-bdcaf998-9b05-4560-a201-f672718b1cf8,carousel.ninja,available,,,high,high,8,,,,
+b8c132de-4216-4957-abb8-306608433a87,revue.ninja,available,11.98,42.98,high,high,5,namecheap,,,27/09/2026 05:20
 1dd73338-5b55-4e08-b7c9-1387eb42eca1,usascii.ninja,available,,,high,high,8,,,,
 6deacb63-f787-4bc8-a817-184473a40dbb,lightskin.ninja,available,,,high,medium,9,,,,
 390760db-37ae-46f0-81c1-a702e1bdaebb,sexify.ninja,available,,,high,high,6,,,,
@@ -483,7 +484,7 @@ ed55d3b9-d36d-48e6-9124-2d12021fbe4e,fannie.ninja,available,,,high,high,6,,,,
 2a1c82a8-2a0c-4432-affe-c5749f86d5f9,optometrists.ninja,available,,,high,low,12,,,,
 2afdcc41-7bd8-446b-b26b-8039b23e8033,lobar.ninja,available,9.99,39.99,medium,low,5,name.com,,,24/08/2026 08:33
 026be713-7f9e-4634-9cbd-09aaccfb0bed,stagy.ninja,available,11.98,42.98,medium,low,5,namecheap,,,10/09/2026 18:04
-a9e31490-1be1-4086-9955-d1f9392f1c55,valencia.ninja,available,,,high,high,8,,,,
+a9e31490-1be1-4086-9955-d1f9392f1c55,valencia.ninja,premium,118.8,118.8,high,high,8,namesilo,,,27/09/2026 05:14
 f8656a03-2901-479b-aba3-534b9e69d996,spatially.ninja,available,11.98,42.98,high,low,9,namecheap,,,16/09/2026 05:56
 ed6b53cd-9387-4224-982c-ec8d09ecd803,cassius.ninja,available,,,high,high,7,,,,
 65252c93-80b3-4fd2-9af8-8f4e412d07a9,preinterview.ninja,available,,,high,low,13,,,,
@@ -525,7 +526,7 @@ af895c27-75bd-40c7-9985-009761387736,turbinate.ninja,available,9.99,39.99,high,l
 04a62cad-1956-4f30-b53d-554664ab2094,vizier.ninja,available,,,high,high,6,,,,
 f68721b2-834d-4b7f-bd75-f9adfdb77bba,whitson.ninja,available,,,high,high,7,,,,
 84c025e8-ec74-4786-bf4e-f8a492115e4e,echoless.ninja,available,9.99,39.99,high,low,8,name.com,,,14/08/2026 23:38
-a3835164-f91b-420b-bd84-cd061bf09ad8,filipina.ninja,available,,,high,high,8,,,,
+a3835164-f91b-420b-bd84-cd061bf09ad8,filipina.ninja,available,15.99,30.99,high,high,8,namesilo,,,27/09/2026 06:03
 8dc712ec-99e7-49a5-9348-95bf5eb05626,streichmelodion.ninja,available,,,high,high,15,,,,
 aed4a421-04d0-4674-97fc-220fe5932840,monoplane.ninja,available,,,high,high,9,,,,
 0cca516f-0086-41db-bd5d-7047ebbe1763,diagrammatically.ninja,available,,,medium,low,16,,,,
@@ -569,6 +570,7 @@ bdcca445-bef7-4bcb-b0e1-0d17754e10e7,descriptively.ninja,available,,,high,high,1
 eb0e3baf-01df-4935-b223-23315284a697,hajji.ninja,available,,,high,high,5,,,,
 fc1588d9-5d1a-4450-906a-2a8f28c9c7a0,consummating.ninja,available,,,medium,low,12,,,,
 5ca7c595-1ae0-4a4c-a7fb-fd50a83ee99e,locators.ninja,available,,,high,low,8,,,,
+0424fed3-168a-438c-bc9f-60c8e4c8ae43,junctions.ninja,available,15.99,30.99,high,low,9,namesilo,,,27/09/2026 03:20
 4c005b14-21e4-4ac3-bc40-24e0c679ef9e,acidizable.ninja,available,,,medium,low,10,,,,
 9108d481-4b22-4e67-94b8-dd99b9a8e849,lettic.ninja,available,,,high,low,6,,,,
 03c45ece-2a45-4faa-a04b-d5eca432c31a,collide.ninja,available,11.98,42.98,high,low,7,namecheap,,,24/09/2026 15:18
@@ -612,13 +614,13 @@ d3a6a95c-b58b-4e5d-b160-95b33e244841,represented.ninja,available,9.99,,high,low,
 d0c86dfb-230c-4761-ab01-67d8554d4eca,refrained.ninja,available,,,medium,low,9,,,,
 88dd6c76-f52e-484a-9f2f-23fc506910ca,amyjohn.ninja,available,,,high,high,8,,,,
 3a3c0eb7-3a63-4f79-8e8e-1799bff296de,mandrel.ninja,available,,,high,high,7,,,,
-2c3759a0-fb17-43bf-ac1d-0708a8cb0f00,braver.ninja,available,,,high,high,6,,,,
+2c3759a0-fb17-43bf-ac1d-0708a8cb0f00,braver.ninja,available,15.99,30.99,high,high,6,namesilo,,,27/09/2026 04:58
 95b2e414-3602-466a-84cd-4da06ff53711,legend.ninja,available,9.99,,high,low,6,name.com,,,
 d0f196f6-9517-44a1-89b7-7eb2fd18d848,burpee.ninja,available,,,high,high,6,,,,
 bdee6ece-6172-4ec1-99c3-6c0e9a70730c,calibrated.ninja,available,9.99,39.99,high,low,10,name.com,,,11/08/2026 14:16
 d32a0307-5256-4863-91d7-bd8db253fadd,slurpy.ninja,available,,,high,medium,6,,,,
 c50630d4-1552-405e-a0fe-85f3b91d0713,tapes.ninja,available,11.98,42.98,high,low,5,namecheap,,,25/09/2026 21:42
-4d4f6f28-bfe6-4e0e-80b2-b0da6b37f6e4,dynamism.ninja,available,,,high,high,8,,,,
+4d4f6f28-bfe6-4e0e-80b2-b0da6b37f6e4,dynamism.ninja,available,15.99,30.99,high,high,8,namesilo,,,27/09/2026 05:52
 2341e5be-33c0-4c29-b736-6cc3175015c3,ambulance.ninja,available,15.99,30.99,high,low,9,namesilo,,,18/09/2026 17:28
 3f9c7c3e-bdc6-44e2-9871-f0e29f0be75e,fastening.ninja,available,,,high,high,9,,,,
 5c466d71-1a22-472d-a005-a573a3f60106,monthly.ninja,available,9.99,39.99,high,low,7,name.com,,,25/09/2026 21:36
@@ -646,7 +648,7 @@ a00248e1-e1a3-4c48-927b-97a26b2ff536,weighting.ninja,available,,,high,high,9,,,,
 c93b79bc-3991-46c9-8768-ed34fdd059a3,minim.ninja,available,,,high,high,5,,,,
 00030653-9c8c-4880-a028-6246b4a0da76,nonfinancial.ninja,available,,,high,low,12,,,,
 a3e386af-9fa8-4b59-92cd-d93c50fac560,acceleratingly.ninja,available,,,high,high,14,,,,
-f73e60ad-adda-4012-9a67-9d81e487edf5,transition.ninja,available,,,high,high,10,,,,
+f73e60ad-adda-4012-9a67-9d81e487edf5,transition.ninja,available,15.99,30.99,high,high,10,namesilo,,,27/09/2026 06:26
 cfaef42e-bd9b-4e84-bd48-f76b5c3414a1,weil.ninja,available,11.98,42.98,high,low,4,namecheap,,,19/09/2026 04:20
 5246197a-1678-4c3c-b68c-241dc1a822a5,elizabethtown.ninja,available,,,high,high,13,,,,
 4204cccc-f7ba-4a52-93d5-cf52d2bae977,ouroboric.ninja,available,,,high,high,9,,,,
@@ -678,11 +680,11 @@ bec9118e-15be-4e73-85b6-64f83f37e9a7,ilk.ninja,available,,,high,high,3,,,,
 f4c5d52d-7f19-4156-8898-695532d1c736,strategist.ninja,available,,,high,high,10,,,,
 a905943c-0ff0-48dc-ae68-e19eeed24e56,softeningly.ninja,available,,,high,high,11,,,,
 7146970c-0bbd-4bbe-b206-acbc07f07741,unclogged.ninja,available,11.98,42.98,high,low,9,namecheap,,,12/09/2026 05:28
-b76c8f7d-1398-4b4d-93ec-b9162d7f7f38,exists.ninja,available,,,high,medium,6,,,,
+b76c8f7d-1398-4b4d-93ec-b9162d7f7f38,exists.ninja,available,15.99,30.99,high,low,6,namesilo,,,27/09/2026 02:40
 ef820850-ce29-4c88-9e0b-94807ec2ff22,formidable.ninja,available,9.99,39.99,high,low,10,name.com,,,18/08/2026 12:12
 9acf1f54-5a6f-46d2-aec8-5896a0400f9a,firearms.ninja,available,,,high,high,8,,,,
 0d2ea63a-22c2-4e65-a6b0-92ac4b8ce82c,doubleheader.ninja,available,,,high,high,12,,,,
-039a41b7-fce3-4a02-82c3-f597c108c007,fawn.ninja,available,,,high,high,4,,,,
+039a41b7-fce3-4a02-82c3-f597c108c007,fawn.ninja,available,15.99,30.99,high,high,4,namesilo,,,27/09/2026 05:52
 aa706426-26ca-4361-b0cd-6ec2a2c4a607,opts.ninja,available,15.99,30.99,medium,low,4,namesilo,,,18/09/2026 13:57
 6f1562a9-a3cd-41e8-b1d3-b238e87e68fd,hospice.ninja,available,,,high,high,7,,,,
 7f3b0756-fe6f-4cf0-8cab-53285e1d9eff,praline.ninja,available,,,high,high,7,,,,
@@ -697,7 +699,7 @@ b21e3f5b-3299-472c-8e6a-aea37367c650,bondi.ninja,available,,,high,high,5,,,,
 5b83e696-fa9c-40e6-8396-12b18cac6629,brandysnap.ninja,available,,,high,low,11,,,,
 e6802dc8-1fa5-45c7-a7aa-40429e44fc04,accourages.ninja,available,,,medium,low,10,,,,
 9da6d292-efcb-4556-a64e-13dd56c5efaa,rebekah.ninja,available,,,high,high,7,,,,
-23029f0d-10f6-425d-b612-9bcbc1263e7d,adorn.ninja,available,,,high,high,5,,,,
+23029f0d-10f6-425d-b612-9bcbc1263e7d,adorn.ninja,available,15.99,30.99,high,high,5,namesilo,,,27/09/2026 05:43
 40620f3b-3f82-4339-89e8-68bc7871f9da,unbeknownst.ninja,available,,,high,low,11,,,,
 ab3c2ac4-8e10-4642-92ab-9b0e94f7550b,greenspace.ninja,available,,,high,high,11,,,,
 7929b208-bb9a-431a-b724-4bd69047adc0,economywide.ninja,available,,,high,high,11,,,,
@@ -706,7 +708,6 @@ da524253-58c1-418c-860a-77a3d9bffe91,officelike.ninja,available,,,high,high,10,,
 37ef7605-00cb-482a-901f-d9dcd3241d78,abaca.ninja,available,9.99,39.99,high,low,5,name.com,,,16/09/2026 13:44
 05882e18-2608-4316-ac9a-64fd5e664e4e,mortgagees.ninja,available,,,high,low,10,,,,
 fcc88827-65f3-4613-9d35-5dc4d571577a,kohlrabi.ninja,available,,,high,high,8,,,,
-9fc7818c-a96d-43e3-afff-56de49443eb7,ranking.ninja,available,9.99,,high,low,7,name.com,,,
 0dd6d196-e622-4519-9bfa-8e9b546e05cb,martinique.ninja,available,,,high,high,10,,,,
 7c568eef-384b-4e21-b992-6ee130868717,something.ninja,available,15.99,30.99,high,low,9,namesilo,,,25/09/2026 23:55
 43351c86-bc35-420b-a0fd-6abe13e3aee5,enkindle.ninja,available,,,high,high,8,,,,
@@ -719,13 +720,13 @@ ddd5858e-5907-4010-a08c-80df845ac91e,dramamine.ninja,available,,,high,high,9,,,,
 6a943e1c-4420-4338-a669-e9e6372960ff,pecuniary.ninja,available,9.99,39.99,high,low,9,name.com,,,25/08/2026 04:35
 d4f6076d-ecb1-4887-90b5-e759599bff3a,harmonisations.ninja,available,,,medium,low,14,,,,
 74a8c8e6-78b5-4c49-8424-452a2492551f,spirant.ninja,available,9.99,39.99,high,low,7,name.com,,,12/08/2026 23:20
-f836ac84-a52d-41dc-9f63-3e4f863067fc,contribute.ninja,available,,,high,high,10,,,,
+f836ac84-a52d-41dc-9f63-3e4f863067fc,contribute.ninja,available,15.99,30.99,high,high,10,namesilo,,,27/09/2026 06:11
 f6d117ea-5b8e-48f3-a273-1fac6c2de383,cxlv.ninja,available,,,high,low,4,,,,
 7e8c5321-a8cb-4a33-acc3-41ed5f2a9753,unspecialized.ninja,available,,,high,high,13,,,,
 8aa60dfc-5806-4df4-bd5c-1f0a17ef218e,preoccupied.ninja,available,,,high,high,11,,,,
 c4d787bc-73bf-4c9c-94cd-c811b06837d2,aiding.ninja,available,,,high,high,6,,,,
 fa61d9f5-6bfc-4554-aee6-8cc9bf8984fd,illuminant.ninja,available,,,high,high,10,,,,
-3adca514-e283-4d77-b3f3-b6aa9a8cf720,ott.ninja,available,,,high,high,3,,,,
+3adca514-e283-4d77-b3f3-b6aa9a8cf720,ott.ninja,premium,118.8,118.8,high,high,3,namesilo,,,27/09/2026 05:58
 dd41dce6-58b0-4aee-a31b-5ca67253f597,kleenex.ninja,available,9.99,,high,low,7,name.com,,,
 cb14a82a-5f6b-4328-8e86-945190cf2286,salving.ninja,available,9.99,39.99,medium,low,7,name.com,,,14/08/2026 01:40
 ba589b8e-52cb-4cb7-9192-ede52c06381a,referred.ninja,available,15.99,30.99,high,low,8,namesilo,,,17/09/2026 06:11
@@ -742,7 +743,7 @@ b00028c7-0193-4a63-8084-a98011ee4acf,xcii.ninja,available,9.99,39.99,high,low,4,
 2a95823a-b213-415c-a168-7a0ecd93626d,allows.ninja,available,,,high,low,6,,,,
 10485b39-b0e8-4356-8377-7eb9e0e57966,spaced.ninja,available,,,high,medium,6,,,,
 b4910082-17cc-48fb-9414-461eca5e468d,hail.ninja,available,11.98,42.98,high,low,4,namecheap,,,16/09/2026 22:38
-c1a015c4-d4b0-48e1-95d4-263761e9a406,bowling.ninja,available,,,high,high,7,,,,
+c1a015c4-d4b0-48e1-95d4-263761e9a406,bowling.ninja,premium,118.8,118.8,high,low,7,namesilo,,,27/09/2026 03:22
 c2f7c6e8-c47a-48c0-8593-01000061906d,nookie.ninja,available,9.99,39.99,medium,low,6,name.com,,,18/08/2026 17:31
 02556d18-8f57-4bd3-b1ad-9f2be7118047,subarctic.ninja,available,11.98,42.98,high,low,9,namecheap,,,10/09/2026 23:36
 bdf40440-e183-46fe-b950-207aa1028efb,incomes.ninja,available,,,high,low,7,,,,
@@ -752,10 +753,10 @@ bdf40440-e183-46fe-b950-207aa1028efb,incomes.ninja,available,,,high,low,7,,,,
 61f4fb8f-3c33-436b-bd4f-27a53e192ca8,dispenses.ninja,available,,,high,low,9,,,,
 678fcb6b-e4ff-4b57-9703-c9a642344917,tarsal.ninja,available,11.98,42.98,high,low,6,namecheap,,,11/09/2026 08:42
 c539891e-a35a-4621-8a89-486abdede361,judea.ninja,available,,,high,high,5,,,,
-627bbde9-0e36-466c-a4dd-bfa64fa51f95,privilege.ninja,available,,,high,high,9,,,,
+627bbde9-0e36-466c-a4dd-bfa64fa51f95,privilege.ninja,available,15.99,30.99,high,high,9,namesilo,,,27/09/2026 05:22
 a8319695-140a-4963-aada-ff34864e4feb,explanations.ninja,available,15.99,30.99,high,low,12,namesilo,,,17/09/2026 10:05
 74d4df3b-8c1a-48f4-bbc4-62eee4f1adc4,incredibly.ninja,available,11.98,42.98,high,low,10,namecheap,,,14/09/2026 17:21
-b69c7b4e-266e-4dc9-b98a-880a6922f832,pacesetter.ninja,available,,,high,high,10,,,,
+b69c7b4e-266e-4dc9-b98a-880a6922f832,pacesetter.ninja,available,11.98,42.98,high,high,10,namecheap,,,27/09/2026 05:28
 d29a8a83-9f0c-4e8d-8d5d-c34aa0462491,foodtech.ninja,available,,,high,medium,8,,,,
 cc6c2268-830f-4131-8fd1-83d6f5ef620d,substituted.ninja,available,,,high,high,11,,,,
 e9bc52bc-bb86-4302-9831-5afb4cfd2e20,godlore.ninja,available,,,high,high,7,,,,
@@ -828,7 +829,7 @@ e05fecc2-c055-4d42-9c65-2d4bf681e47c,baton.ninja,available,15.99,30.99,high,low,
 10f7b791-0a35-4b1c-9822-5c4fa754981d,sunblind.ninja,available,11.98,42.98,high,low,8,namecheap,,,21/09/2026 10:15
 22a67214-a11c-4623-81dc-3235153a0002,flameproof.ninja,available,9.99,39.99,high,low,10,name.com,,,18/08/2026 06:28
 21f441e7-7401-4768-9d20-f48bee040e34,mandarine.ninja,available,,,high,high,9,,,,
-ef09b333-f8b3-4a8b-a59f-43fa14c6a842,nowadays.ninja,available,9.99,,high,low,8,name.com,,,
+ef09b333-f8b3-4a8b-a59f-43fa14c6a842,nowadays.ninja,available,15.99,30.99,high,low,8,namesilo,,,27/09/2026 05:06
 dc29660d-2bfb-4e41-b55d-6dce5a855f84,frogman.ninja,available,,,high,high,7,,,,
 5e4665f0-4ac0-46ce-b6ec-2a26e1f489d6,lazing.ninja,available,,,medium,low,6,,,,
 a37719e3-08ea-42ae-bf57-fb1fa3d5842c,aftertaste.ninja,available,15.99,30.99,high,low,10,namesilo,,,17/09/2026 15:52
@@ -866,13 +867,13 @@ cf944127-b557-455d-8d92-ade5a12b2a6b,schwarzenegger.ninja,available,,,high,high,
 a684f82b-f3e0-4d02-9710-332067e4d609,villages.ninja,available,,,high,low,8,,,,
 5272b942-81af-4720-b3f1-f10cc1323e64,colocate.ninja,available,,,high,high,9,,,,
 375208f7-39bc-4228-be42-f4f964b19895,illogical.ninja,available,9.99,39.99,high,low,9,name.com,,,14/08/2026 11:22
+9352960b-b9da-4c07-9f08-dc11e5d394bd,baylor.ninja,available,11.98,42.98,medium,low,6,namecheap,,,27/09/2026 01:57
 7119dde7-eef4-4f86-9cb6-36c44694e93a,ebidding.ninja,available,,,high,low,9,,,,
-103073b6-3d34-4660-af74-350a56ef820a,ghana.ninja,available,,,high,high,5,,,,
 6d1c5c9d-6e41-4cf9-aa96-91ddba9c4f28,undulate.ninja,available,11.98,42.98,high,low,8,namecheap,,,12/09/2026 08:33
 09a125b7-9998-4d93-95e6-d55bdf10b563,constitutions.ninja,available,,,medium,low,13,,,,
 5ddcf59b-1311-41c2-a471-b5311e2d9356,naturalist.ninja,available,,,high,high,10,,,,
 c9ea4857-6770-491c-b0df-adc8c0b1fe4b,extravagant.ninja,available,,,high,high,11,,,,
-5bb08836-497b-407a-bcbc-aaac87114cdb,racino.ninja,available,,,high,high,6,,,,
+5bb08836-497b-407a-bcbc-aaac87114cdb,racino.ninja,available,15.99,30.99,high,high,6,namesilo,,,27/09/2026 05:46
 91b62e91-6c9a-471d-9016-5027eeae2113,anecdotist.ninja,available,15.99,30.99,high,low,10,namesilo,,,19/09/2026 05:08
 0efc74d7-a2df-4130-8ab9-08b2d9694782,macrotext.ninja,available,,,high,high,9,,,,
 bb8f8861-23d2-4c59-b762-cb4e810a0c10,stuffed.ninja,available,11.98,42.98,high,low,7,namecheap,,,10/09/2026 23:02
@@ -888,7 +889,7 @@ e19cae4b-009c-42f0-9170-6f509ea69d09,frenzy.ninja,available,15.99,30.99,high,low
 962d7105-0691-43a9-b370-ce2eeaab9d58,kirkenes.ninja,available,,,high,high,8,,,,
 05a13061-0935-45b7-8c64-e57cc6c0b422,evolutionist.ninja,available,,,high,high,12,,,,
 46d644ca-c66d-4110-99a7-11698380126b,granite.ninja,available,,,high,high,7,,,,
-8fd9a3a3-e6de-4e32-b995-2631fec962a7,embolden.ninja,available,,,high,high,8,,,,
+8fd9a3a3-e6de-4e32-b995-2631fec962a7,embolden.ninja,available,11.98,42.98,high,high,8,namecheap,,,27/09/2026 05:52
 f67de223-e79a-4533-bf63-421208814b95,sexily.ninja,available,,,high,high,6,,,,
 f7820b5c-a491-42d0-90aa-a64e9447cc0c,pocketknife.ninja,available,,,high,high,11,,,,
 21297d66-4131-46ab-a10c-9b09937428de,postbuild.ninja,available,,,high,high,10,,,,
@@ -899,7 +900,7 @@ dc6c44d5-607f-4012-9b56-18e966c96c2f,flotus.ninja,available,,,high,low,6,,,,
 1db22d7f-9504-4b85-8c09-c7878d7ffe29,aliform.ninja,available,9.99,39.99,high,low,7,name.com,,,
 f4829e5f-d254-4839-a59e-a0efad1baf26,prelaunch.ninja,available,,,high,high,10,,,,
 2226a5f9-b429-45b9-9ba4-ced5c2e3b4eb,outfox.ninja,available,,,high,high,6,,,,
-e1863b30-e0af-4228-b0cb-851fb2bc1f27,revamp.ninja,available,,,high,high,6,,,,
+e1863b30-e0af-4228-b0cb-851fb2bc1f27,revamp.ninja,available,15.99,30.99,high,high,6,namesilo,,,27/09/2026 05:58
 91e47c61-b3ab-4db8-992e-d80268130823,dull.ninja,available,15.99,30.99,high,low,4,namesilo,,,23/09/2026 00:25
 6a506a36-a550-4377-8587-065cedc1b55e,scowling.ninja,available,9.99,39.99,high,low,8,name.com,,,09/08/2026 08:33
 4066d1dd-ef46-4ffe-88e7-fa9ef4abdf85,minimize.ninja,available,,,high,high,8,,,,
@@ -908,7 +909,7 @@ e1863b30-e0af-4228-b0cb-851fb2bc1f27,revamp.ninja,available,,,high,high,6,,,,
 8e747daf-9fba-4f7d-9e48-a4a688335b82,deception.ninja,available,15.99,30.99,high,low,9,namesilo,,,24/09/2026 17:22
 bfa1d510-5b27-4071-88d0-0cbe97ac4e99,anopia.ninja,available,15.99,30.99,medium,low,6,namesilo,,,19/09/2026 11:39
 46445aae-ab8e-41fc-acfe-fdf865661aff,joyfulness.ninja,available,,,high,high,10,,,,
-5ab3aac0-1f41-44b6-b827-66f9a2fb3d0e,ode.ninja,available,,,high,high,3,,,,
+5ab3aac0-1f41-44b6-b827-66f9a2fb3d0e,ode.ninja,available,15.99,30.99,high,high,3,namesilo,,,27/09/2026 05:49
 5fd9fa28-73bc-4980-ae4a-d16f5f7be9c2,scrutinising.ninja,available,,,high,high,12,,,,
 16d5ba45-eaee-4d3c-a304-93cac62fee0f,lineage.ninja,available,,,high,low,7,,,,
 a5e65dba-4466-424a-8e3f-75abf175e000,apart.ninja,available,15.99,30.99,high,low,5,namesilo,,,22/09/2026 07:07
@@ -998,4 +999,3 @@ f829a0b7-ca8b-415f-96b8-ac522805cf79,bridgeport.ninja,available,,,high,medium,10
 1f22d3fe-450d-4f16-b081-d69d8885b4de,grandly.ninja,available,11.98,42.98,high,low,7,namecheap,,,14/09/2026 22:03
 b0fb4d64-7237-4db0-8d93-aefbbd168bf3,pedantic.ninja,available,9.99,39.99,high,low,8,name.com,,,14/08/2026 15:55
 64a26a7c-5dea-429e-821c-6f67f8fc7e05,selfrule.ninja,available,,,high,high,9,,,,
-453e48d2-69c8-49b7-8c5c-e056b15a1f2f,autarky.ninja,available,15.99,30.99,high,low,7,namesilo,,,21/09/2026 05:04
